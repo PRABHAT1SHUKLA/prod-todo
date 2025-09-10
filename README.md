@@ -1,7 +1,6 @@
 # DevOps Todo App
 
-![CI/CD Pipeline](https://github.com/YOUR_USERNAME/devops-todo-app/workflows/DevOps%20CI/CD%20Pipeline/badge.svg)
-[![Docker Pulls](https://img.shields.io/docker/pulls/YOUR_USERNAME/devops-todo-app.svg)](https://hub.docker.com/r/YOUR_USERNAME/devops-todo-app)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project implements a Node.js-based Todo API with production-grade automation, showcasing CI/CD pipelines, containerization, orchestration, monitoring, and security—all using free tools.
